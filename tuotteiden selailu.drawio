@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" modified="2023-08-30T09:52:58.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.0" etag="k_xxxRbXRNLY6xxcncj8" type="github">
+  <diagram name="Sivu-1" id="mL-5IsAQavng2JycI7mA">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Asiakas" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="144" width="68" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Selaa tuotteita" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="118" y="100" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Tarkempi tuotteen näkymä" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="242" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Selaa tuotteita" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="609" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Lisää tuote ostoskoriin" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="581" y="172" width="177" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Asiakas" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="808" y="44" width="68" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9946690727682674;exitY=0.5081440318714489;entryX=-0.002971336489818135;entryY=0.49810453321112963;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9984631147540983;exitY=0.49810453321112963;entryX=-0.0007747933884297521;entryY=0.4990444340981728;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9978822440155282;exitY=0.15774887468443624;entryX=-0.002663909411821209;entryY=0.5007172256219582;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="556" y="61" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9978822440155282;exitY=0.8403399935119094;entryX=0.0027542545297051554;entryY=0.49971753998664814;" edge="1" parent="1" source="4" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="556" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9987705418320952;exitY=0.5007172256219582;entryX=0.0005515603458180147;entryY=0.517803076541785;" edge="1" parent="1" source="5" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
