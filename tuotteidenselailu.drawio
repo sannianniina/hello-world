@@ -1,0 +1,29 @@
+<mxfile host="app.diagrams.net" modified="2023-08-30T09:54:21.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.0" etag="Xqi7UK05QL_0NOkk6lcI" type="github">
+  <diagram name="Sivu-1" id="MV36jndN9S69BIUO6z1n">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Asiakas" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="87" width="68" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="selaa tuotteita" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="118" y="43" width="121" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="tarkempi tuotteen näkymä" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="289" width="207" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.9946690727682674;exitY=0.4928029378255208;entryX=-0.0029958929897339875;entryY=0.4980371648615057;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.9966942022654636;exitY=0.4980371648615057;entryX=-0.0019323745211541365;entryY=0.49885264226203957;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
