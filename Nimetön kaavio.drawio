@@ -1,42 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T09:29:58.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.0" etag="uw2_LJ9LCAqZf1dYbAmA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T09:33:15.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FzUntJ1HuCUQ8On0sRzo" version="21.7.0" type="github">
   <diagram name="Sivu-1" id="ldmzElFeA8dKuWhYSnHD">
-    <mxGraphModel>
+    <mxGraphModel dx="549" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Asiakas" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="50" width="68" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="3" value="Järjestelmä" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3" value="Järjestelmä" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="247" y="50" width="100" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Hakutoiminto" style="curved=1;startArrow=none;endArrow=block;exitX=0.9946690727682674;exitY=0.030295704079695913;entryX=0.09066405896700075;entryY=0.0030302567915482955;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="4" value="Hakutoiminto" style="curved=1;startArrow=none;endArrow=block;exitX=0.9946690727682674;exitY=0.030295704079695913;entryX=0.09066405896700075;entryY=0.0030302567915482955;" parent="1" target="3" edge="1">
+          <mxGeometry x="0.026" y="-9" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="157" y="9" />
             </Array>
+            <mxPoint x="68" y="50.83271593205984" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5" value="Kirjautuminen" style="curved=1;startArrow=none;endArrow=block;exitX=0.9946690727682674;exitY=0.34949249200758653;entryX=-0.004265594482421875;entryY=0.3007738158520948;" edge="1" parent="1" source="2" target="3">
+        <mxCell id="5" value="Kirjautuminen" style="curved=1;startArrow=none;endArrow=block;exitX=0.9946690727682674;exitY=0.34949249200758653;entryX=-0.004265594482421875;entryY=0.3007738158520948;" parent="1" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="157" y="48" />
             </Array>
+            <mxPoint x="68" y="61.479726814176274" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6" value="Tuotteiden selailu" style="curved=1;startArrow=none;endArrow=block;exitX=0.9946690727682674;exitY=0.6686892799354771;entryX=-0.004265594482421875;entryY=0.7174079560909686;" edge="1" parent="1" source="2" target="3">
+        <mxCell id="6" value="Tuotteiden selailu" style="curved=1;startArrow=none;endArrow=block;exitX=0.9946690727682674;exitY=0.6686892799354771;entryX=-0.004265594482421875;entryY=0.7174079560909686;" parent="1" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="157" y="86" />
             </Array>
+            <mxPoint x="68" y="72.12673769629282" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7" value="Hakutulokset" style="curved=1;startArrow=none;endArrow=block;exitX=0.09066405896700075;exitY=1.0151515151515151;entryX=0.9946690727682674;entryY=0.9878860678633675;" edge="1" parent="1" source="3" target="2">
+        <mxCell id="7" value="Hakutulokset" style="curved=1;startArrow=none;endArrow=block;exitX=0.09066405896700075;exitY=1.0151515151515151;entryX=0.9946690727682674;entryY=0.9878860678633675;" parent="1" source="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="157" y="124" />
             </Array>
+            <mxPoint x="68" y="82.77374857840914" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dbzHK3ki0ZV-y0oRXC4--21" value="asiakas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="36.5" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
