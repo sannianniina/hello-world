@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" modified="2023-08-30T09:10:44.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.0" etag="BoNKOizAdkO6G7mPwnVB" type="github">
+  <diagram name="Sivu-1" id="jPSJ4dGcTL1BhnQa813D">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Asiakas" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="83" width="68" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Kirjautuminen" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="133" width="117" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Tuotteiden_selailu" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="118" y="83" width="148" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Hakutoiminto" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="135" y="167" width="112" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Järjestelmä" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="167" width="100" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Hakutulokset" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="465" y="167" width="109" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6705382898086973;exitY=0.012121258359966856;entryX=0.0005608909150474092;entryY=0.5060606291799834;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="93" y="17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9946690727682674;exitY=0.5181818875399503;entryX=-0.0024493449443095438;entryY=0.5181818875399503;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6705382898086973;exitY=1.0242425167199336;entryX=0.003892285483224051;entryY=0.5000001155968868;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="93" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0030831609453474;exitY=0.5000001155968868;entryX=0.001437530517578125;entryY=0.5000001155968868;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9994375610351562;exitY=0.5000001155968868;entryX=-0.000515999050315367;entryY=0.5000001155968868;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
